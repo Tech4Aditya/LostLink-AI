@@ -1,0 +1,4 @@
+object_id,incident_id,report_type,image_path,description,category,color,location_id,event_time,match_group,is_positive,source,split
+OBJ001,INC001,lost,images/obj001_a.jpg,"black backpack orange zipper",backpack,black,LIBRARY,2026-09-27T10:30:00Z,PAIR001,1,internal,train
+OBJ001,INC002,found,images/obj001_b.jpg,"dark school bag orange zip",backpack,black,CAFETERIA,2026-09-27T11:15:00Z,PAIR001,1,internal,train
+OBJ002,INC003,found,images/obj002_a.jpg,"black backpack",backpack,black,LIBRARY,2026-09-27T12:00:00Z,NEG001,0,internal,train
