@@ -1,5 +1,13 @@
 # LostLink AI
 
+
+https://github.com/user-attachments/assets/d17d2eea-3dc4-44ae-90f8-2baebb5c27cf
+
+<img width="1350" height="734" alt="image" src="https://github.com/user-attachments/assets/624af832-cc50-4dac-820f-ab5ca96bf6f0" />
+
+<img width="943" height="469" alt="Screenshot 2026-09-27 140123" src="https://github.com/user-attachments/assets/8ec30ee4-8ad8-4812-8135-082dd9e0e76b" />
+
+
 A production-minded Lost & Found matching platform built around multimodal retrieval, metadata ranking, privacy-first ownership verification, and a real evaluation pipeline.
 
 ## What this repository contains
